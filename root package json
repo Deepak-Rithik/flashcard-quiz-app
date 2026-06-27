@@ -1,0 +1,8 @@
+{
+  "name": "flashcard-quiz-app",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ]
+}
